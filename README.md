@@ -1,3 +1,2 @@
 # JavaMiniApps
-
-Just some algorithms and mini programs
+Some algorithms and mini programs
